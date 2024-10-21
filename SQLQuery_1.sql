@@ -1,4 +1,4 @@
-/*¿Qué productos no se ha vendido ninguna unidad y qué precio tienen, ordena lo por precio descendente y  su indice?
+/*¿Qué productos no se ha vendido ninguna unidad y qué precio tienen, ordena los por precios descendentes y  su indice?
 */
 SELECT p.ProductID, p.Name, p.ListPrice
 FROM SalesLT.Product p
